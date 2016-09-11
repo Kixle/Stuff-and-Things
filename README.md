@@ -1,2 +1,2 @@
 # Stuff-and-Things
-A place to store things
+A place to store stuff and things
